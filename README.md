@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hey John Lanza here 👋
 
-<!--
-**johalama2023/johalama2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://i.postimg.cc/hG6MC3rS/logoJL.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
-- 🔭 I’m currently working on ...
+
+- 🔭 Develop the Chilling Time project that helps passengers book airport lounges at low cost
+<a align="center" href='https://chillingtime.co/'>
+  <img src="https://i.postimg.cc/V64vf2Vw/Captura-de-pantalla-2023-07-17-175421.png" width="100%" title="Intro Card" alt="Intro Card">
+</a>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
