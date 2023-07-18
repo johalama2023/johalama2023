@@ -33,6 +33,11 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 ---
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=johalama2023&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<br/>
+
+---
 
 
 ### You can find in me in the web 🌍
